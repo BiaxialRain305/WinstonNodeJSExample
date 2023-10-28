@@ -1,0 +1,6 @@
+10/28/2023, 2:56:04 PM [info] (index.js) This is an info message from index.js.
+10/28/2023, 2:56:04 PM [warn] This is a warning message from index.js. FileName was purposed not added
+10/28/2023, 2:56:04 PM [error] This is an error message from index.js. FileName was purposed not added
+10/28/2023, 2:56:04 PM [info] (other.js) This is the second info from other.js.
+10/28/2023, 2:56:04 PM [warn] (other.js) This is the second warning from other.js.
+10/28/2023, 2:56:04 PM [error] (other.js) This is the second error from other.js.
